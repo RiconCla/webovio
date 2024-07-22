@@ -1,1 +1,1 @@
-Первая верстка по [макету](https://www.figma.com/design/TyZER3MmbVsKzdmHzJljgP/Webovio-(Copy)?node-id=7-3&t=JSqQxToH4dmkDeLH-0)
+Первая верстка по [макету]([https://www.figma.com/design/TyZER3MmbVsKzdmHzJljgP/Webovio-(Copy)?node-id=7-3&t=JSqQxToH4dmkDeLH-0](https://www.figma.com/file/2rdy1qjBTl7D6BAC8S4qlf/Webovio?type=design&node-id=7%3A3&t=6Jidr0RCtszwmo4x-1))
