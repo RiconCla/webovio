@@ -367,7 +367,7 @@ blockquote {
   text-decoration: none;
 }
 
-.social__list {
+.social-list {
   display: flex;
   flex-wrap: wrap;
   gap: 14px;
@@ -375,7 +375,7 @@ blockquote {
   list-style: none;
 }
 
-.social__link {
+.social-list__item-link {
   display: block;
   width: 33px;
   height: 33px;
@@ -419,6 +419,6 @@ blockquote {
   font-size: 14px;
 }
 
-.social__link:hover {
+.social-list__item-link:hover {
   background-color: #ffd723;
 }
