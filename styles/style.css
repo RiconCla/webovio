@@ -178,7 +178,7 @@ blockquote {
 
 .section-best-way__list {
   display: grid;
-  grid-template-columns: repeat(auto-fill, 255px);
+  grid-template-columns: repeat(auto-fit, 255px);
   gap: 30px;
   list-style: none;
 }
